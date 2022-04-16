@@ -2275,7 +2275,7 @@
     "privacy.entry.wayfinding.location.sharing.description": "Ver un mapa del campus con lugares de interés.",
     "privacy.entry.wayfinding.location.sharing.data_usage": "Esta función utiliza los servicios de localización pero no almacena tu ubicación.",
     "privacy.entry.wayfinding.personalizations.title": "Personalizaciones",
-    "privacy.entry.wayfinding.personalizations.description": "Navigate campus with places of interest to you.",
+    "privacy.entry.wayfinding.personalizations.description": "Navega por el campus con los lugares que te interesan a ti.",
     "privacy.entry.wayfinding.personalizations.data_usage": "Esta función utiliza servicios de localización, tu información personal y los lugares que has marcado como favoritos en la app.",
     "privacy.entry.wayfinding.notifications.title": "Notificaciones",
     "privacy.entry.wayfinding.notifications.description": "Recibir notificaciones personalizadas basadas en tu ubicación.",
