@@ -2034,7 +2034,7 @@
     "widget.home.safer.button.my_mckinley.description": "Portal de salud del paciente MyMcKinley",
     "widget.home.safer.button.wellness_answer_center.title": "Centro de respuestas",
     "widget.home.safer.button.wellness_answer_center.description": "Obtén respuestas a tus preguntas.",
-    "widget.home.safer.alert.building_access.privacy_update.msg": "With your privacy level at {{privacy_level_icon}} , you will have to sign in every time to show your building access status. Do you want to change your privacy level to 4 or 5 so you only have to sign in once?",
+    "widget.home.safer.alert.building_access.privacy_update.msg": "Con tu nivel de privacidad en {{privacy_level_icon}} , tendrás que iniciar sesión cada vez para mostrar tu estado de acceso a los edificios. ¿Quieres cambiar tu nivel de privacidad a 4 o 5 para solo tener que iniciar sesión una vez?",
     "widget.athletics_card.button.get_tickets.title": "Obtén boletos",
     "widget.athletics_card.button.get_tickets.hint": "",
     "widget.athletics_card.label.offline.sports": "Los deportes no están disponibles sin conexión.",
