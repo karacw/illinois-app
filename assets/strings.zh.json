@@ -1256,7 +1256,7 @@
     "panel.create_poll.cancel_dialog.button.no": "否",
     "panel.create_poll_panel.counter.hint": "最多, %s 个, 字符",
     "panel.create_poll.message.error.default": "无法创建投票。请填写所有栏位然后重试。",
-    "panel.create_poll.description.non_editable.text": "Once started, you can no longer edit the poll.",
+    "panel.create_poll.description.non_editable.text": "投票开始你将不能再编辑其内容。",
     "panel.create_stadium_poll.header.title": "创建体育场投票",
     "panel.create_stadium_poll.text.wants_to_know": "想知道……",
     "panel.create_stadium_poll.text.question": "问题",
