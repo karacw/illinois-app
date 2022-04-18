@@ -2267,7 +2267,7 @@
     "privacy.entry.health.location.sharing.title": "位置共享",
     "privacy.entry.health.location.sharing.description": "助你寻找校园内各项身心健康资源。",
     "privacy.entry.health.location.sharing.data_usage": "此功能会使用位置服务，但不会保存你的位置。",
-    "privacy.category.wayfinding.title": "如何前往",
+    "privacy.category.wayfinding.title": "位置导航",
     "privacy.entry.wayfinding.view.only.title": "仅可查看",
     "privacy.entry.wayfinding.view.only.description": "查看包含你感兴趣的地点的校园地图。",
     "privacy.entry.wayfinding.view.only.data_usage": "这不会使用或保存你的位置。",
