@@ -2142,7 +2142,7 @@
     "widget.group_card.status.public": "公开",
     "widget.group_card.status.authman": "已管理",
     "widget.group_card.status.hidden": "已隐藏",
-    "widget.group_card.status.hint": "status: %s ,for: ",
+    "widget.group_card.status.hint": "状态: %s: ",
     "widget.group_card.member.label": "成员",
     "widget.group_card.members.label": "成员",
     "panel.group_card.privacy_alert.msg": "你的隐私等级为 {{privacy_level_icon}} ，你只能查看现有群组。",
